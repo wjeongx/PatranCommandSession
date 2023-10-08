@@ -1,0 +1,1 @@
+하중 적용 및 모델링을 위한 patran seesion file 생성
